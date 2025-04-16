@@ -1,5 +1,8 @@
 # Humlab deployment of Neatline
 
+## WARNING
+This really just install Omeka-s in it's current state, not Neatline.
+
 ## Installation
 
 1. Copy .env-example to .env and fill it out
